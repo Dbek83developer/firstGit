@@ -1,2 +1,3 @@
 # firstGit
-study
+study.
+Leaning Git with Pycharm.
